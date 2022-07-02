@@ -1,8 +1,8 @@
 {
-  "name": "deminsv",
+  "name": "kum91",
   "env": {
      "ENCRYPT": {
-      "description": "My shifrovanie.",
+      "description": "Myshifrovanie.",
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
