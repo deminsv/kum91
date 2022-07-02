@@ -2,7 +2,7 @@
   "name": "kum91",
   "env": {
      "ENCRYPT": {
-      "description": "Myshifrovanie.",
+      "description": "My shifrovanie.",
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
